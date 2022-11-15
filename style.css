@@ -1,0 +1,16 @@
+
+  ol.likes {
+  list-style-type: circle;
+}
+
+uo.my_likes {
+  list-style-type: square;
+}
+
+ul.dislikes {
+  list-style-type: lower-roman;
+}
+
+ol.my_dislikes {
+  list-style-type: lower-alpha;
+}

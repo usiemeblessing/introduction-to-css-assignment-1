@@ -5,7 +5,7 @@
 }
 
 .wrapper{
-  border: 2px solid black;
+  /* border: 2px solid black; */
   width: 400px;
   padding: 20px;
   display: inline-block;
@@ -33,4 +33,9 @@
 
 #my_dislikes {
   list-style-type: lower-alpha;
+  color: green;
+}
+
+.ul_dislikes{
+color: purple;
 }

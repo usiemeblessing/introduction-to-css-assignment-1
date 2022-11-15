@@ -1,5 +1,17 @@
+.container{
+  margin: 0 auto;
+}
 
-  ol.likes {
+.wrapper{
+  border: 2px solid black;
+  width: 500px;
+  padding: 20px;
+  display: inline-block;
+}
+ 
+ 
+ 
+ ol.likes {
   list-style-type: circle;
 }
 
